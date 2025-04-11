@@ -1,7 +1,7 @@
 # Hello, welcome to my GitHub portfolio!
 
 
-## Conecte-se comigo
+## Stay connected
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego1rodrigues)
 
